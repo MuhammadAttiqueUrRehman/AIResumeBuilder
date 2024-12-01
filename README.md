@@ -16,7 +16,10 @@ Features:
 - & more
 
 Run the app:
-npm i --legacy-peer-deps
-npm run dev
+- npm i --legacy-peer-deps
+- npm run dev
+- Open http://localhost:3000
 
-Watch the free **11-hour** tutorial on YouTube: https://www.youtube.com/watch?v=ySqesLjz6K0
+Deploy the app:
+- npm run build
+- npm run preview
