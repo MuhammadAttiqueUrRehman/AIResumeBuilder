@@ -15,3 +15,8 @@ Features:
 - Auto-save hook
 - & more
 
+Run the app:
+npm i --legacy-peer-deps
+npm run dev
+
+Watch the free **11-hour** tutorial on YouTube: https://www.youtube.com/watch?v=ySqesLjz6K0
